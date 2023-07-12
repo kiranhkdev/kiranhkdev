@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kiran hassan khattak</h1>
+<h1 align="center">Hi 👋, I'm Kiran Hassan Khattak</h1>
 <h3 align="center">passionate tech girl from Pakistan</h3>
 <img align="right" alt=coding" width"400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360">
 - 🌱 I’m currently learning **Web Scrapping & Data mining**
